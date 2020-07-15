@@ -9,7 +9,7 @@ import java.io.Serializable;
  *
  * @author 杨承雨
  * @param <T>
- *     dev
+ *     dev dev2
  */
 @Data
 public class ResultModel<T> implements Serializable {
